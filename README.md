@@ -1,6 +1,7 @@
 # visualizedSpinUpDisc
 
 This is an extension of the work of https://github.com/YNWAcoder. I thought I'd visualize it in Java instead of relying on CSVs and the sort. 
+This app uses JavaFX in Java 17 and I recommend Intellij to run it. If you don't have the Java 17 JDK, you can download the openJDK from Intellij directly. 
 
 ## Original readme: 
 This is a code adopted from a paper published by V. R. Morrison (https://web.mit.edu/womens-ult/www/smite/frisbee_physics.pdf) to model the flight of a disc for the Vex Robotics Game: Spin Up
