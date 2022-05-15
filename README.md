@@ -14,3 +14,5 @@ If someone who is not faimilar with Java wishes to test this, I recomend Intelli
 
 ### IMPORTANT NOTE: 
 As of now, the lift and drag coefficients are the same as the ones published in the paper. These could be different for the foam disks used in Spin Up. Therefore, take this model with a grain of salt. 
+
+![image](https://user-images.githubusercontent.com/71800893/168454236-d356e048-6948-4cfe-856c-8954bae6221b.png)
